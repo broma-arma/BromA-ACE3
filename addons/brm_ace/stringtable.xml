@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="BRM_ACE">
+    <Package name="Main">
+        <Key ID="STR_BRM_ACE_Main_Defibrillator_Display">
+            <English>Defibrillator</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Defibrillator_Desc_Short">
+            <English>Used to pass an electric current through the heart.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Defibrillator_Desc_Use">
+            <English>Defibrillators used to restart the heart.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Use_Defibrillator">
+            <English>Use Defibrillator</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_DEF_Good">
+            <English>%1 has successfully used a Defibrillator to reanimate the patient.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_DEF_Bad">
+            <English>The patient did not respond to the countershock - try again.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_DEFAction">
+            <English>Readying the electrical discharge...</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_dead">
+            <English>CPR attempted on deceased patient.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_bleeding">
+            <English>Seems like %1's CPR pumped blood out of their wounds.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_revive_time">
+            <English>Looks like they'll die in about %1 minutes.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_revive_time_low">
+            <English>They'll be dead in less than a minute.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_bleeding_medic">
+            <English>%1's CPR further worsened the patient's hemorrhaging.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_revive_time_medic">
+            <English>%2 has an estimated %1 seconds until exsanguination.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_revive_time_low_medic">
+            <English>The patient is not going to make it.</English>
+        </Key>
+        <Key ID="STR_BRM_ACE_Main_Activity_CPR_stabilized">
+            <English>The patient is stabilized.</English>
+        </Key>
+    </Package>
+</Project>

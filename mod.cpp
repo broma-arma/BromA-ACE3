@@ -1,0 +1,13 @@
+name = "BromA ACE3 Mod";
+author = "BromA";
+picture = "data\picture.paa";
+action = "http://broma.onozuka.info";
+actionName = "Website";
+description = "Mod we use that specifically alters ACE3.";
+logo = "data\group-logo.paa";
+logoOver = "data\group-logo.paa";
+logoSmall = "data\logo-small.paa";
+tooltip = "BromA ACE3 Mod";
+tooltipOwned = "Get ready for true autism.";
+overview = "ACE3 modification made over here in BromA, developed in-house and made with love, 100% cotton.";
+overviewPicture = "data\picture.paa";

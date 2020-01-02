@@ -1,0 +1,11 @@
+@*
+extras/*
+keys/*
+release/*
+releases/*
+tools/*
+*.cache
+*.pbo
+*.bisign
+*.biprivatekey
+texHeaders.bin
