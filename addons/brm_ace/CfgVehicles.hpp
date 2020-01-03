@@ -1,25 +1,4 @@
 class CfgVehicles {
-    class Man;
-    class CAManBase: Man {
-        class ACE_Actions {
-            // Include actions in body parts for treatment while in the open
-            #define EXCEPTIONS exceptions[] = {"isNotSwimming"};
-            #define ACTION_CONDITION condition = QUOTE(GVAR(menuTypeStyle) == 0);
-            #include "ACE_Medical_Actions.hpp"
-
-            // Create a consolidates medical menu for treatment while boarded
-            class ACE_MainActions {
-                class Medical {
-                    #undef EXCEPTIONS
-                    #undef ACTION_CONDITION
-                    #define EXCEPTIONS exceptions[] = {"isNotInside", "isNotSwimming"};
-                    #define ACTION_CONDITION condition = "true";
-                    #include "ACE_Medical_Actions.hpp"
-                };
-            };
-        };
-    };
-
     class Item_Base_F;
     class ACE_DefibrillatorItem: Item_Base_F {
         scope = 2;

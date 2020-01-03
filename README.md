@@ -7,5 +7,5 @@
 
 #### Modifications
 - Defibrillator
-- CPR worsens a patient's condition if they're unstabilized
-- Personal aid kit restores patient's revive lives if applied in a medical facility or vehicle
+- ~~CPR worsens a patient's condition if they're unstabilized~~
+- ~~Personal aid kit restores patient's revive lives if applied in a medical facility or vehicle~~

@@ -1,2 +1,4 @@
-PREP(treatmentAdvanced_DEF);
-PREP(treatmentAdvanced_DEFLocal);
+PREP(canDefib);
+PREP(defibStart);
+PREP(defib);
+PREP(defibLocal);
