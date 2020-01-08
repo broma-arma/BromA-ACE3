@@ -4,7 +4,7 @@ class CfgPatches {
     class ADDON {
         name = COMPONENT_NAME;
         units[] = {};
-        weapons[] = {"ACE_Defibrillator"};
+        weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"ace_medical"};
         author = "";
@@ -14,8 +14,4 @@ class CfgPatches {
     };
 };
 
-#include "ACE_Medical_Treatment_Actions.hpp"
 #include "CfgEventHandlers.hpp"
-#include "CfgReplacementItems.hpp"
-#include "CfgVehicles.hpp"
-#include "CfgWeapons.hpp"
