@@ -14,5 +14,6 @@ class CfgPatches {
     };
 };
 
+#include "ACE_Medical_Treatment.hpp"
 #include "CfgSettings.hpp"
 #include "CfgEventHandlers.hpp"
