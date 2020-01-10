@@ -12,6 +12,13 @@
             <English>When can the PAK be used?</English>
 		</Key>
 
+		<Key ID="STR_BRM_ACE_Main_conditionSurgicalKit_DisplayName">
+            <English>Condition Surgical Kit</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_conditionSurgicalKit_Description">
+            <English>When can the Surgical Kit be used?</English>
+		</Key>
+
 		<Key ID="STR_BRM_ACE_Main_tourniquetTime_DisplayName">
 			<English>Tourniquet Time</English>
 		</Key>

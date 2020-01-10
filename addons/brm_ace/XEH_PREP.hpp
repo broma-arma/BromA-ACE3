@@ -1,1 +1,2 @@
+PREP(canStitch);
 PREP(canPAK);
