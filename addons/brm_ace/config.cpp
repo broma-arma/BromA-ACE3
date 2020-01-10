@@ -6,7 +6,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"ace_medical"};
+        requiredAddons[] = {"ace_main", "ace_medical_status", "ace_medical_treatment", "ace_medical_statemachine"};
         author = "";
         authors[] = {"BromA"};
         authorUrl = "http://broma.onozuka.info";
@@ -14,4 +14,5 @@ class CfgPatches {
     };
 };
 
+#include "CfgSettings.hpp"
 #include "CfgEventHandlers.hpp"
