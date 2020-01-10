@@ -6,6 +6,6 @@
 **BromA ACE3** is a modification of [ACE3](https://ace3mod.com) used by the BromA <a href="https://arma3.com">ArmA 3</a> community.
 
 #### Modifications
-- Defibrillator
-- ~~CPR worsens a patient's condition if they're unstabilized~~
-- ~~Personal aid kit restores patient's revive lives if applied in a medical facility or vehicle~~
+- Fixes AI aiming/shooting at hidden/unconscious units.
+- Fixes 100% chance of reopening on quikclot'd large abrasions.
+- CBA setting for tourniquet time, PAK use condition, stitching kit use condition, and bleedout.
