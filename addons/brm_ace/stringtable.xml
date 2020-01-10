@@ -5,6 +5,13 @@
 			<English>BromA</English>
 		</Key>
 
+		<Key ID="STR_BRM_ACE_Main_conditionPAK_DisplayName">
+			<English>Condition PAK</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_conditionPAK_Description">
+            <English>When can the PAK be used?</English>
+		</Key>
+
 		<Key ID="STR_BRM_ACE_Main_tourniquetTime_DisplayName">
 			<English>Tourniquet Time</English>
 		</Key>

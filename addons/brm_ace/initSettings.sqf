@@ -1,4 +1,13 @@
 [
+    QGVAR(conditionPAK),
+	"LIST",
+	[LSTRING(conditionPAK_DisplayName), LSTRING(conditionPAK_Description)],
+	["STR_ace_medical_Category", LSTRING(SubCategory)],
+	[[0, 1, 2], ["Anytime", "Not Bleeding", "Stable"], 2],
+	true
+] call CBA_fnc_addSetting;
+
+[
     QGVAR(tourniquetTime),
 	"SLIDER",
 	[LSTRING(tourniquetTime_DisplayName), LSTRING(tourniquetTime_Description)],
