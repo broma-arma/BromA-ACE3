@@ -9,3 +9,4 @@
 - Fixes AI aiming/shooting at hidden/unconscious units.
 - Fixes 100% chance of reopening on quikclot'd large abrasions.
 - CBA setting for tourniquet time, PAK use condition, stitching kit use condition, and bleedout.
+- Fixes players able to interact while unconscious
