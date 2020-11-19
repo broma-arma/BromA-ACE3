@@ -12,7 +12,7 @@
 
 // MINIMAL required version for the Mod. Components can specify others..
 #define REQUIRED_VERSION 1.56
-#define REQUIRED_ACE_VERSION {3,13,1}
+#define REQUIRED_ACE_VERSION {3,13,5}
 
 #ifdef COMPONENT_BEAUTIFIED
     #define COMPONENT_NAME QUOTE(brm_ace - COMPONENT_BEAUTIFIED)

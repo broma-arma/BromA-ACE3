@@ -9,8 +9,4 @@ class ace_medical_treatment_actions {
 	class SurgicalKit: FieldDressing {
         condition = QFUNC(canStitch);
 	};
-
-	class ApplyTourniquet: BasicBandage {
-        treatmentTime = QGVAR(tourniquetTime);
-	};
 };

@@ -19,13 +19,6 @@
             <English>When can the Surgical Kit be used?</English>
 		</Key>
 
-		<Key ID="STR_BRM_ACE_Main_tourniquetTime_DisplayName">
-			<English>Tourniquet Time</English>
-		</Key>
-		<Key ID="STR_BRM_ACE_Main_tourniquetTime_Description">
-			<English>How long does it take to apply or remove a tourniquet?\nBandage time is 2.25 seconds minimum, 12 seconds maximum.</English>
-		</Key>
-
 		<Key ID="STR_BRM_ACE_Main_bleedout_DisplayName">
 			<English>Bleedout</English>
 		</Key>

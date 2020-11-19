@@ -7,4 +7,4 @@
 
 #### Modifications
 - Fixes AI aiming/shooting at hidden/unconscious units.
-- CBA setting for tourniquet time, PAK use condition, stitching kit use condition, and bleedout.
+- CBA setting for PAK use condition, stitching kit use condition, and bleedout.
