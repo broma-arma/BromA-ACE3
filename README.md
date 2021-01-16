@@ -8,3 +8,4 @@
 #### Modifications
 - Fixes AI aiming/shooting at hidden/unconscious units.
 - CBA setting for PAK use condition, stitching kit use condition, and bleedout.
+- Fatal injury lives.

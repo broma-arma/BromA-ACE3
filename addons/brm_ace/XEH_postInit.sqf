@@ -16,3 +16,16 @@
         _object setUnitTrait ["audibleCoef", _audible];
     };
 }] call CBA_fnc_addEventHandler;
+
+// Show remaining lives to medics
+["ace_medicalMenuOpened", {
+	params ["_player", "_target", "_display"];
+
+	if (ace_medical_statemachine_fatalInjuriesPlayer != 0 && { [_player] call ace_medical_treatment_fnc_isMedic }) then {
+		private _secondChances = _target getVariable ["brm_ace_secondChances", -1];
+		if (_secondChances > -1) then {
+			private _ctrlTitle = _display displayCtrl 1200;
+			_ctrlTitle ctrlSetText format ["%1 (Lives: %2)", ctrlText _ctrlTitle, _secondChances];
+		};
+	};
+}] call CBA_fnc_addEventHandler;
