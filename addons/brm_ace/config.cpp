@@ -18,3 +18,4 @@ class CfgPatches {
 #include "Statemachine.hpp"
 #include "CfgSettings.hpp"
 #include "CfgEventHandlers.hpp"
+#include "CfgFunctions.hpp"

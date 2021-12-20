@@ -25,5 +25,54 @@
 		<Key ID="STR_BRM_ACE_Main_bleedout_Description">
 			<English>Can die from blood loss?</English>
 		</Key>
+
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyDefault_DisplayName">
+			<English>Default Duty</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyDefault_Description">
+			<English>The default duty for animations.</English>
+		</Key>
+
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyCrouch_DisplayName">
+			<English>Crouch Duty</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyCrouch_Description">
+			<English>The duty for crouching animations.</English>
+		</Key>
+
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyProne_DisplayName">
+			<English>Prone Duty</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyProne_Description">
+			<English>The duty for prone animations.</English>
+		</Key>
+
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutySwimming_DisplayName">
+			<English>Swimming Duty</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutySwimming_Description">
+			<English>The duty for swimming animations.</English>
+		</Key>
+
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyDiving_DisplayName">
+			<English>Diving Duty</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyDiving_Description">
+			<English>The duty for diving animations.</English>
+		</Key>
+
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyLowReady_DisplayName">
+			<English>Low Ready Multiplier</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyLowReady_Description">
+			<English>The duty multiplier for low ready animations.</English>
+		</Key>
+
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyHighReady_DisplayName">
+			<English>High Ready Multiplier</English>
+		</Key>
+		<Key ID="STR_BRM_ACE_Main_advfatigue_animDutyHighReady_Description">
+			<English>The duty multiplier for high ready animations.</English>
+		</Key>
 	</Package>
 </Project>
