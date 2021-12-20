@@ -1,5 +1,5 @@
 [
-    QGVAR(conditionPAK),
+	QGVAR(conditionPAK),
 	"LIST",
 	[LSTRING(conditionPAK_DisplayName), LSTRING(conditionPAK_Description)],
 	["STR_ace_medical_Category", LSTRING(SubCategory)],
@@ -8,7 +8,7 @@
 ] call CBA_fnc_addSetting;
 
 [
-    QGVAR(conditionSurgicalKit),
+	QGVAR(conditionSurgicalKit),
 	"LIST",
 	[LSTRING(conditionSurgicalKit_DisplayName), LSTRING(conditionSurgicalKit_Description)],
 	["STR_ace_medical_Category", LSTRING(SubCategory)],
@@ -17,7 +17,7 @@
 ] call CBA_fnc_addSetting;
 
 [
-    QGVAR(bleedout),
+	QGVAR(bleedout),
 	"LIST",
 	[LSTRING(bleedout_DisplayName), LSTRING(bleedout_Description)],
 	["STR_ace_medical_Category", LSTRING(SubCategory)],
