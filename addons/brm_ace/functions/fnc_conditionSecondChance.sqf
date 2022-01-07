@@ -25,7 +25,7 @@ if (isPlayer _unit) then {
 		if (_secondChances > -1) then {
 			_secondChance = _secondChances > 0;
 			_secondChances = [-1, _secondChances - 1] select _secondChance;
-			_unit setVariable ["brm_ace_secondChances", _secondChances];
+			_unit setVariable ["brm_ace_secondChances", _secondChances, true];
 			["brm_ace_secondChances", [_unit, _secondChance, _secondChances]] call CBA_fnc_localEvent;
 		};
 	};
